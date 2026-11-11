@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+
+
+body {
+  background-color: #e0aaff;
+  color: #240046;
+  font-family: "Akaya Kanadaka", sans-serif;
+
+}
+h1 {
+  color: #7b2cbf;
+  text-align center;
+  font-size 36px;
+  letter-spacing 2px;
+  text-decoration underline;
+}
+
+h2 {
+  color: #7b2cbf;
+}
+
+p{
+    line-height 1.6;
+}
+
+a {
+  color: #5a189a;
+  text-decoration none;
+  font-weight bold;
+}
